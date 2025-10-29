@@ -1,1 +1,2 @@
-Olá esse arquivo mostra como utilizar o Git
+Olá esse projeto mostra como utilizar o Git
+Isso e uma alteração
