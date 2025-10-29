@@ -1,0 +1,1 @@
+Olá esse arquivo mostra como utilizar o Git
